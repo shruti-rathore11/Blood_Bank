@@ -1,3 +1,3 @@
 # Blood_Bank
 
-![](https://github.com/shruti-rathore11/Blood_Bank/tree/main/using/Screenshots/screenshot(69))
+![](https://github.com/shruti-rathore11/Blood_Bank/blob/main/using/Screenshots/Screenshot%20(10).png)
